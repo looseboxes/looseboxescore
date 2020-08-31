@@ -1,5 +1,6 @@
 ### Custom ###
 git-ignore/
+*.env
 
 target/
 !.mvn/wrapper/maven-wrapper.jar
